@@ -1,0 +1,92 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-f0b97fc7ff",
+  "video_title": "Trump hoãn đánh Iran: Đằng sau?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-f0b97fc7ff.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Hủy đánh Iran: Lệnh từ ai?",
+      "subtitle": "Trump nhượng bộ vùng Vịnh - Sự thật phía sau",
+      "tags": [
+        "Trump",
+        "Iran",
+        "Vùng Vịnh"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "Donald Trump",
+        "Iran attack",
+        "Gulf states"
+      ],
+      "voice_segment": "Ông Trump bất ngờ tuyên bố hủy bỏ cuộc tấn công mới nhằm vào Iran. Lý do? Chính các quốc gia vùng Vịnh đã lên tiếng ngăn cản.",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 182
+    },
+    {
+      "type": "insight",
+      "headline": "Yêu cầu từ vùng Vịnh",
+      "points": [
+        "Kế hoạch tấn công dự kiến diễn ra hôm thứ Ba nhưng bị hoãn.",
+        "Theo BBC, Trump nói 'các cuộc đàm phán nghiêm túc' đang diễn ra.",
+        "Các nước vùng Vịnh lo ngại xung đột lan rộng, ảnh hưởng kinh tế."
+      ],
+      "image_keywords": [
+        "Persian Gulf",
+        "oil tanker",
+        "war"
+      ],
+      "source_note": "BBC World",
+      "voice_segment": "Thực tế, cuộc tấn công đã được lên lịch vào thứ Ba, nhưng Trump chùn bước khi vùng Vịnh lên tiếng. Họ sợ chiến tranh sẽ đốt cháy cả khu vực, đe dọa nguồn cung dầu mỏ. Liệu đây là nhượng bộ ngoại giao hay chiêu trò?",
+      "duration_hint": 12,
+      "start_frame": 182,
+      "duration_frames": 312,
+      "image_url": "https://images.unsplash.com/photo-1708762477585-04df98a3c9e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxQZXJzaWFuJTIwR3VsZiUyMG9pbCUyMHRhbmtlciUyMHdhcnxlbnwwfDB8fHwxNzc5MTUxODQ4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Iran đàm phán hay đe dọa?",
+      "points": [
+        "Trump tuyên bố 'đàm phán nghiêm túc' đang diễn ra.",
+        "Nhưng liệu Iran có thực sự nhượng bộ?"
+      ],
+      "image_keywords": [
+        "Iran",
+        "nuclear negotiation",
+        "meeting"
+      ],
+      "source_note": "BBC World",
+      "voice_segment": "Trump nói rằng đàm phán nghiêm túc đang diễn ra, nhưng Iran chưa từng lùi bước trước sức ép. Câu hỏi đặt ra: Ai thực sự nắm quyền kiểm soát ở Trung Đông? Các ông lớn vùng Vịnh - chứ không phải Washington.",
+      "duration_hint": 10,
+      "start_frame": 494,
+      "duration_frames": 298,
+      "image_url": "https://images.unsplash.com/photo-1693139062697-f5f8663217fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxJcmFuJTIwbnVjbGVhciUyMG5lZ290aWF0aW9uJTIwbWVldGluZ3xlbnwwfDB8fHwxNzc5MTUxODQ5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Bạn nghĩ gì về động thái này?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Đây có phải là thất bại ngoại giao của Trump? Hay là chiến thuật trước bầu cử? Hãy để lại bình luận.",
+      "duration_hint": 4,
+      "start_frame": 792,
+      "duration_frames": 146,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkwMTE0NTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 940
+  }
+}
