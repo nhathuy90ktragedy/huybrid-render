@@ -1,0 +1,93 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-d14ba8f893",
+  "video_title": "ĐẠI DỊCH KẾ TIẾP: Chúng ta có thực sự sẵn sàng?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-d14ba8f893.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "ĐẠI DỊCH TIẾP THEO?",
+      "subtitle": "Ebola, hantavirus - Chúng ta đã sẵn sàng?",
+      "tags": [
+        "đại dịch",
+        "ebola",
+        "hantavirus"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "ebola virus",
+        "pandemic fear",
+        "masked crowd"
+      ],
+      "voice_segment": "Ebola, hantavirus - những cái tên đáng sợ đang quay trở lại. Nhưng câu hỏi đặt ra: sau COVID-19, thế giới đã thực sự sẵn sàng cho đại dịch tiếp theo chưa?",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 235,
+      "image_url": "https://images.unsplash.com/photo-1634374438794-bce8badf8d16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxlYm9sYSUyMHZpcnVzJTIwcGFuZGVtaWMlMjBmZWFyJTIwbWFza2VkJTIwY3Jvd2R8ZW58MHwwfHx8MTc3OTE3MTI4Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "CẮT GIẢM NGHIÊN CỨU - LỖ HỔNG CHẾT NGƯỜI",
+      "points": [
+        "Ngân sách nghiên cứu y tế toàn cầu bị cắt giảm hàng tỷ USD",
+        "Phong trào chống vắc-xin gia tăng tại Mỹ và châu Âu",
+        "WHO cảnh báo: Thiếu hụt nhân lực ứng phó khẩn cấp"
+      ],
+      "image_keywords": [
+        "funding cut",
+        "vaccine hesitancy protest",
+        "empty laboratory"
+      ],
+      "source_note": "Nguồn: Al Jazeera - ngày 18/5/2026",
+      "voice_segment": "Chúng ta tự lừa dối mình khi nghĩ COVID đã dạy một bài học. Thực tế: nghiên cứu y tế bị cắt giảm mạnh, hàng tỷ USD biến mất khỏi quỹ phòng dịch. Và phong trào chống vắc-xin đang khiến các biện pháp cơ bản trở nên bất khả thi. Liệu Ebola hay hantavirus bùng phát, chúng ta có gì để chống trả?",
+      "duration_hint": 12,
+      "start_frame": 235,
+      "duration_frames": 445,
+      "image_url": "https://images.unsplash.com/photo-1631448931561-c301d71d0b29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxmdW5kaW5nJTIwY3V0JTIwdmFjY2luZSUyMGhlc2l0YW5jeSUyMHByb3Rlc3QlMjBlbXB0eSUyMGxhYm9yYXRvcnl8ZW58MHwwfHx8MTc3OTE3MTI4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "BÀI HỌC CHƯA BAO GIỜ CŨ",
+      "points": [
+        "Hantavirus đã xuất hiện tại Trung Quốc với tỷ lệ tử vong 38%",
+        "Châu Phi thiếu 70% nhân viên y tế tuyến đầu"
+      ],
+      "image_keywords": [
+        "hantavirus outbreak",
+        "medical staff shortage",
+        "africa clinic"
+      ],
+      "source_note": "Nguồn: Al Jazeera & WHO",
+      "voice_segment": "Hantavirus có tỷ lệ tử vong lên tới 38% - cao hơn nhiều so với COVID. Trong khi đó, các quốc gia nghèo chỉ có 30% nhân lực y tế cần thiết. Cắt giảm viện trợ toàn cầu đang khoét sâu lỗ hổng ấy. Đây không phải kịch bản hậu tận thế, mà là thực tại đang hình thành.",
+      "duration_hint": 10,
+      "start_frame": 680,
+      "duration_frames": 399,
+      "image_url": "https://images.unsplash.com/photo-1517120026326-d87759a7b63b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxoYW50YXZpcnVzJTIwb3V0YnJlYWslMjBtZWRpY2FsJTIwc3RhZmYlMjBzaG9ydGFnZSUyMGFmcmljYSUyMGNsaW5pY3xlbnwwfDB8fHwxNzc5MTcxMjg0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Bạn nghĩ mầm bệnh tiếp theo sẽ đến từ đâu?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Vậy theo bạn, thảm họa tiếp theo sẽ bắt đầu từ sự lơ là hay bất lực? Hãy để lại suy nghĩ dưới phần bình luận.",
+      "duration_hint": 4,
+      "start_frame": 1079,
+      "duration_frames": 166,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkxNTE4NTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1247
+  }
+}
