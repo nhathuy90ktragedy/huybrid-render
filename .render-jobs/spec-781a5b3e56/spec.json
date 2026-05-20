@@ -1,0 +1,260 @@
+{
+  "composition_id": "video-deep-dive",
+  "template_id": "video-deep-dive",
+  "style_id": "video-deep-dive",
+  "video_id": "spec-781a5b3e56",
+  "video_title": "Lebanon sắp thành Gaza tiếp theo? Israel leo thang cực điểm",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-781a5b3e56.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Israel mở mặt trận 2: Lebanon sắp thành Gaza?",
+      "subtitle": "Mệnh lệnh di tản và không kích dồn dập: Israel thực sự muốn chiến tranh tổng lực với Hezbollah",
+      "tags": [
+        "Israel",
+        "Lebanon",
+        "Hezbollah"
+      ],
+      "source_badge": "PHÂN TÍCH",
+      "image_keywords": [
+        "israel lebanon war conflict"
+      ],
+      "voice_segment": "Liệu người dân Lebanon có phải là những nạn nhân tiếp theo trong chuỗi bạo lực Trung Đông? Israel vừa thực hiện không kích đẫm máu xuống miền nam Lebanon, ngay sau khi phát lệnh di tản dân thường. Đây không chỉ là một đòn trả đũa quân sự thông thường. Bối cảnh thế giới đang chứng kiến sự tàn phá ở Gaza vẫn chưa dừng lại, nay thêm một mặt trận mới bùng phát. Điều gì thúc đẩy Israel hành động táo bạo lúc này? Và tại sao Lebanon – một quốc gia đã kiệt quệ – lại trở thành mục tiêu tiếp theo? Người Việt Nam theo dõi thời sự cần hiểu rõ: cuộc khủng hoảng này không chỉ nằm ngoài biên giới, nó có thể làm rung chuyển giá dầu, kiều hối và an ninh khu vực châu Á.",
+      "duration_hint": 40,
+      "start_frame": 0,
+      "duration_frames": 1002,
+      "image_url": "https://images.unsplash.com/photo-1563389845181-317e9b3be029?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxpc3JhZWwlMjBsZWJhbm9uJTIwd2FyJTIwY29uZmxpY3R8ZW58MHwwfHx8MTc3OTI2NzMzNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "context",
+      "headline": "Bối cảnh: Israel - Hezbollah, lịch sử căng thẳng",
+      "points": [
+        "Hezbollah là lực lượng vũ trang hậu thuẫn Iran, mạnh hơn nhiều so với Hamas.",
+        "Xung đột leo tháng từ tháng 10/2023, với hàng trăm cuộc tấn công xuyên biên giới.",
+        "Lebanon hiện đang trong khủng hoảng kinh tế tồi tệ nhất thế giới kể từ 1850."
+      ],
+      "image_keywords": [
+        "lebanon beirut explosion destruction"
+      ],
+      "source_note": "Hiệp hội các nhà nghiên cứu Trung Đông",
+      "voice_segment": "Để hiểu vì sao Israel sẵn sàng mở mặt trận hai, phải quay lại bản đồ lực lượng. Hezbollah không phải Hamas. Đây là tổ chức vũ trang có quân đội thực thụ, với khoảng 100.000 đến 150.000 tên lửa và rocket, nhiều loại có độ chính xác cao do Iran chuyển giao. Từ tháng 10 năm ngoái, cả hai bên đã trao trả đạn qua biên giới hàng trăm lần, khiến hàng chục nghìn dân thường hai bên phải sơ tán. Nhưng điểm khác biệt lớn nhất: Lebanon đang sụp đổ. Ngân hàng thế giới xếp hạng cuộc khủng hoảng kinh tế của họ là một trong ba tồi tệ nhất từ thế kỷ 19. Trong hoàn cảnh đó, một cuộc chiến mới sẽ là thảm họa tuyệt đối.",
+      "duration_hint": 42,
+      "start_frame": 1002,
+      "duration_frames": 922,
+      "image_url": "https://images.unsplash.com/photo-1598534959625-369dd1d2a2f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxsZWJhbm9uJTIwYmVpcnV0JTIwZXhwbG9zaW9uJTIwZGVzdHJ1Y3Rpb258ZW58MHwwfHx8MTc3OTI2NzMzNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Chiến thuật 'di tản trước, đánh sau' của Israel",
+      "points": [
+        "Lệnh di tản dân thường Lebanon là bước đệm cho chiến dịch trên bộ.",
+        "Sao chép mô hình Gaza: tạo vùng an toàn giả, sau đó san phẳng.",
+        "Mục tiêu: đẩy Hezbollah ra xa biên giới, lập vùng đệm rộng."
+      ],
+      "image_keywords": [
+        "israel strike gaza civilian flee"
+      ],
+      "source_note": "Phân tích quân sự - Debka File",
+      "voice_segment": "Không thể xem nhẹ lệnh di tản dân thường vừa qua. Israel đã học được bài học từ Gaza: tước đi lá chắn con người của Hamas bằng cách buộc dân cư di chuyển, sau đó mới đổ bộ bộ binh. Ở miền nam Lebanon, lệnh di tản nhắm vào các làng mà Hezbollah đang đặt bệ phóng. Hành động này cho thấy Israel đã sẵn sàng kế hoạch tổng tiến công. Điểm khác biệt: mục đích chiến lược. Họ muốn tạo một vùng đệm rộng tới 10-15 km bên trong lãnh thổ Lebanon, đủ để vô hiệu hóa tên lửa tầm ngắn của Hezbollah. Đây không phải đòn trả đũa, mà là một cuộc chiến chiếm đất.",
+      "duration_hint": 40,
+      "start_frame": 1924,
+      "duration_frames": 831,
+      "image_url": "https://images.unsplash.com/photo-1739879353789-41554220f9c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxpc3JhZWwlMjBzdHJpa2UlMjBnYXphJTIwY2l2aWxpYW4lMjBmbGVlfGVufDB8MHx8fDE3NzkyNjczMzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Hezbollah mạnh cỡ nào mà dám đọ sức?",
+      "points": [
+        "Kho vũ khí ước tính 150.000 rocket, đủ bắn phủ hàng ngày vào Israel.",
+        "Tên lửa chính xác có thể vô hiệu hóa Iron Dome.",
+        "Kinh nghiệm chiến trường Syria giúp họ chuyên nghiệp hơn Hamas."
+      ],
+      "image_keywords": [
+        "hezbollah rocket launcher lebanon"
+      ],
+      "source_note": "Viện Nghiên cứu Chiến lược Quốc tế (IISS)",
+      "voice_segment": "Người Israel lo sợ Hezbollah không phải vô cớ. Theo báo cáo của IISS, lực lượng này sở hữu khoảng 150.000 rocket và tên lửa. Con số đó gấp nhiều lần những gì Hamas từng có. Đặc biệt, họ có hàng nghìn tên lửa dẫn đường chính xác do Iran sản xuất, loại có thể đánh trúng các cơ sở chiến lược, nhà máy điện hoặc sân bay. Hệ thống Iron Dome nổi tiếng của Israel sẽ quá tải nếu phải đối phó với một trận mưa rocket đồng loạt. Thêm vào đó, hàng nghìn tay súng Hezbollah đã chiến đấu ở Syria, tích lũy kinh nghiệm tác chiến đô thị và du kích. Nếu nổ ra chiến tranh toàn diện, Israel sẽ không thể 'dọn dẹp' nhanh chóng như ở Gaza.",
+      "duration_hint": 45,
+      "start_frame": 2755,
+      "duration_frames": 945
+    },
+    {
+      "type": "insight",
+      "headline": "Iran đứng sau: Hezbollah là con bài tổng tấn công",
+      "points": [
+        "Iran coi Hezbollah là tuyến phòng thủ chiến lược, không phải đạo quân ủy nhiệm thông thường.",
+        "Nếu Hezbollah bị tiêu diệt, sức răn đe của Iran biến mất.",
+        "Tehran sẽ trả đũa trực tiếp vào Israel hoặc tấn công tàu Mỹ."
+      ],
+      "image_keywords": [
+        "iran ayatollah military parade"
+      ],
+      "source_note": "Báo cáo tình báo Mỹ",
+      "voice_segment": "Đằng sau Hezbollah là cả một đế chế Iran. Với Tehran, Hezbollah không chỉ là một 'cánh tay nối dài' để gây rối, mà còn là 'tấm khiên sống còn'. Lực lượng này được trang bị vũ khí tối tân và huấn luyện bài bản, thậm chí kiểm soát cả khu vực trung tâm Beirut. Nếu Israel tiêu diệt Hezbollah trong cuộc chiến này, toàn bộ chiến lược bao vây Israel bằng lực lượng ủy nhiệm của Iran sẽ sụp đổ. Do đó, Tehran không thể đứng yên. Các nhà phân tích dự báo, một khi Hezbollah bị dồn vào chân tường, Iran sẽ có hai lựa chọn: hoặc phóng tên lửa từ lãnh thổ Iran vào Israel, hoặc ra lệnh cho các nhóm vũ trang ở Iraq, Syria tấn công căn cứ Mỹ. Kịch bản đó leo thang cực kỳ nguy hiểm.",
+      "duration_hint": 45,
+      "start_frame": 3700,
+      "duration_frames": 1019,
+      "image_url": "https://images.unsplash.com/photo-1598693332470-457c5c44d5e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxpcmFuJTIwYXlhdG9sbGFoJTIwbWlsaXRhcnklMjBwYXJhZGV8ZW58MHwwfHx8MTc3OTI2NzMzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Ai bảo vệ Israel nếu chiến tranh kéo dài?",
+      "points": [
+        "Mỹ đang giảm viện trợ do áp lực bầu cử, đồng thời chuyển trọng tâm sang châu Á.",
+        "Kho đạn dược của Israel đã cạn sau 6 tháng ở Gaza.",
+        "Một cuộc chiến 2 mặt trận sẽ làm kiệt quệ hoàn toàn Tel Aviv."
+      ],
+      "image_keywords": [
+        "usa israel military aid congress"
+      ],
+      "source_note": "Foreign Affairs",
+      "voice_segment": "Kịch bản tồi tệ nhất với Israel không phải là thua trên chiến trường, mà là cạn kiệt hậu cần. Sau gần một năm chiến sự ở Gaza, quân đội Israel đã phải sử dụng lượng bom đạn khổng lồ. Kho dự trữ tên lửa phòng không, đặc biệt là đạn cho hệ thống Iron Dome, đang ở mức báo động. Lẽ ra Mỹ sẽ bù đắp, nhưng Washington đang ở thời điểm nhạy cảm bầu cử. Áp lực từ cử tri và đảng Dân chủ muốn giảm can dự Trung Đông. Trong khi đó, Trung Quốc đang gia tăng sức ép lên Đài Loan, buộc Mỹ phải dồn quân sang Thái Bình Dương. Một cuộc chiến với Hezbollah kéo dài hơn ba tháng có thể khiến Israel mất khả năng phòng thủ trên không, mở đường cho các đòn tấn công tên lửa từ Iran.",
+      "duration_hint": 48,
+      "start_frame": 4719,
+      "duration_frames": 1009,
+      "image_url": "https://images.unsplash.com/photo-1772299399188-0139d5740004?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx1c2ElMjBpc3JhZWwlMjBtaWxpdGFyeSUyMGFpZCUyMGNvbmdyZXNzfGVufDB8MHx8fDE3NzkyNjczMzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Bẫy chiến lược: Netanyahu muốn chiến tranh để giữ ghế?",
+      "points": [
+        "Netanyahu đang bị khủng hoảng chính trị nội bộ, có thể bị truy tố.",
+        "Chiến tranh giúp kéo dài tình trạng khẩn cấp, trì hoãn bầu cử.",
+        "Lợi ích cá nhân của ông ta đang xung đột với lợi ích quốc gia Israel."
+      ],
+      "image_keywords": [
+        "netanyahu protest israel parliament"
+      ],
+      "source_note": "Chính trị Israel - Haaretz",
+      "voice_segment": "Câu hỏi nhạy cảm: liệu Thủ tướng Netanyahu có đang đốt lửa chiến tranh để tự cứu mình? Trước tháng 10 năm ngoái, ông ta đang đối mặt với làn sóng biểu tình lớn nhất lịch sử, buộc tội tham nhũng và âm mưu phá hoại nền tư pháp. Chiến tranh với Hamas đã giúp ông tạm thời trở thành 'lãnh tụ thời chiến', trì hoãn mọi phiên tòa. Giờ đây, khi cuộc chiến ở Gaza hạ nhiệt, áp lực đòi bầu cử lại trỗi dậy. Leo thang với Lebanon là phương án cứu nguy hoàn hảo: tình trạng khẩn cấp cho phép hoãn bầu cử, đồng thời khơi dậy lòng yêu nước của người dân. Nhiều nhà bình luận Israel lo ngại, lợi ích cá nhân của ông Netanyahu đã trở thành vật cản cho một giải pháp hòa bình, và ông sẵn sàng đẩy cả Lebanon vào biển lửa chỉ để níu kéo quyền lực.",
+      "duration_hint": 50,
+      "start_frame": 5728,
+      "duration_frames": 1109
+    },
+    {
+      "type": "insight",
+      "headline": "Bài học Gaza: Lebanon sẽ trở thành đống đổ nát",
+      "points": [
+        "Không quân Israel đã phá hủy 70% các tòa nhà ở Gaza.",
+        "Ứng dụng AI 'The Gospel' giúp xác định mục tiêu hàng loạt.",
+        "Cơ sở hạ tầng Lebanon vốn yếu kém sẽ sụp đổ chỉ sau vài ngày."
+      ],
+      "image_keywords": [
+        "gaza destruction rubble buildings"
+      ],
+      "source_note": "Phân tích hình ảnh vệ tinh - UNOSAT",
+      "voice_segment": "Hãy nhìn vào Gaza để hình dung Lebanon trong vài tuần tới. Chưa đầy 6 tháng, Israel đã phá hủy hơn 70% số tòa nhà ở phía bắc Dải Gaza, theo dữ liệu của Liên Hợp Quốc. Bí quyết nằm ở hệ thống AI 'The Gospel' - một phần mềm tự động quét ảnh vệ tinh, khoanh vùng mục tiêu với tốc độ chưa từng có. Cùng một phương thức đó, Lebanon sẽ phải hứng chịu cường độ mạnh hơn gấp bội. Điểm khác biệt: Lebanon không còn sức chống đỡ. Hệ thống điện chỉ hoạt động 2-4 giờ mỗi ngày, sân bay quốc tế Beirut xuống cấp, bệnh viện thiếu thuốc trầm trọng. Một cuộc không kích kéo dài một tuần thôi cũng đủ biến các thành phố như Sidon hay Tyre thành bãi đất hoang, lặp lại bi kịch của người dân Palestine.",
+      "duration_hint": 50,
+      "start_frame": 6837,
+      "duration_frames": 1037,
+      "image_url": "https://images.unsplash.com/photo-1702024284245-c22c329a10ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxnYXphJTIwZGVzdHJ1Y3Rpb24lMjBydWJibGUlMjBidWlsZGluZ3N8ZW58MHwwfHx8MTc3OTI2NzMzOHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Kinh tế thế giới lao đao vì giá dầu",
+      "points": [
+        "Giá dầu Brent có thể vọt lên 150 USD/thùng nếu eo biển Hormuz bị đe dọa.",
+        "Lạm phát toàn cầu quay lại, ngân hàng trung ương các nước mất kiểm soát.",
+        "Việt Nam chịu ảnh hộp kép: giá xăng tăng + chi phí logistics tăng."
+      ],
+      "image_keywords": [
+        "oil price surge barrels fire"
+      ],
+      "source_note": "Bloomberg Economics",
+      "voice_segment": "Tác động kinh tế của cuộc chiến Israel-Lebanon không dừng lại ở Trung Đông. Mỗi khi khu vực này 'cháy', túi tiền của người Việt lại bị ảnh hưởng qua giá dầu. Mô hình mô phỏng của Bloomberg cho thấy, nếu Hezbollah và Iran tham chiến và nhắm vào eo biển Hormuz – nơi vận chuyển 20% lượng dầu thô toàn cầu – giá dầu Brent có thể nhảy vọt lên 150 đô la một thùng. Hãy nhớ lại năm 2022, khi giá dầu lên 120 đô la đã đẩy lạm phát Việt Nam lên hơn 4%. Lần này còn tệ hơn vì chuỗi cung ứng toàn cầu chưa kịp phục hồi. Giá xăng trong nước sẽ lập đỉnh mới, kéo theo giá thực phẩm, điện, nước tăng chóng mặt. Người lao động sẽ là người hứng chịu đầu tiên.",
+      "duration_hint": 48,
+      "start_frame": 7874,
+      "duration_frames": 978
+    },
+    {
+      "type": "insight",
+      "headline": "Kiều bào Lebanon và tác động tới châu Á",
+      "points": [
+        "Cộng đồng người Lebanon ở châu Phi, châu Âu gửi kiều hối chiếm 37% GDP Lebanon.",
+        "Chiến tranh làm đứt gãy dòng tiền này, đẩy Lebanon vào vỡ nợ hoàn toàn.",
+        "Người Việt Nam học gì từ thảm họa kiều hối của Lebanon?"
+      ],
+      "image_keywords": [
+        "lebanese diaspora protest beirut"
+      ],
+      "source_note": "Ngân hàng Thế giới",
+      "voice_segment": "Một khía cạnh ít người nhắc đến: kiều hối. Lebanon phụ thuộc vào kiều hối nhiều hơn bất kỳ quốc gia nào khác, chiếm tới 37% GDP. Hơn 14 triệu người Lebanon sống ở nước ngoài, chủ yếu tại Brazil, Mỹ, Pháp và các nước vùng Vịnh. Họ gửi tiền về nuôi gia đình, trả học phí và giữ cho nền kinh tế khỏi sụp đổ. Khi chiến tranh nổ ra, hai hệ lụy xảy ra: một là, chính phủ Lebanon sụp đổ, ngân hàng đóng cửa, dòng tiền không thể vào. Hai là, cộng đồng người Lebanon tại nước ngoài bị phân tâm, thay vì gửi tiền lại phải dùng tiền để giải cứu người thân di tản. So sánh với Việt Nam, nơi kiều hối cũng đóng góp lớn, bài học là không bao giờ để nền kinh tế phụ thuộc quá mức vào nguồn tiền dễ bị tổn thương bởi xung đột.",
+      "duration_hint": 50,
+      "start_frame": 8852,
+      "duration_frames": 1078
+    },
+    {
+      "type": "insight",
+      "headline": "Người tị nạn: Làn sóng thứ hai đổ về châu Âu",
+      "points": [
+        "Hơn 1 triệu người Lebanon có thể di cư trong năm đầu chiến tranh.",
+        "EU chưa sẵn sàng cho làn sóng tị nạn mới sau Ukraine.",
+        "Chính trị cực hữu đang lên ở Pháp, Đức sẽ càng thêm căng thẳng."
+      ],
+      "image_keywords": [
+        "refugee boat mediterranean sea"
+      ],
+      "source_note": "Cao ủy Tị nạn UNHCR",
+      "voice_segment": "Người dân Lebanon sẽ không có chỗ chạy. Lebanon chỉ rộng hơn tỉnh Nghệ An một chút, không có vùng sâu trong đất liền để lánh nạn. Hiện tại nước này đã tiếp nhận 2 triệu người tị nạn Syria và Palestine. Thêm một cuộc chiến mới, hàng trăm nghìn người Lebanon sẽ buộc phải vượt Địa Trung Hải sang châu Âu. Các chuyên gia của UNHCR dự báo, con số có thể lên tới 1 triệu người trong năm đầu tiên. Vấn đề là châu Âu chưa có khả năng đón nhận. Khối này đang khủng hoảng vì 6 triệu người tị nạn Ukraine, trong khi các đảng cực hữu như ở Pháp, Đức, Ý đang lên tiếng đòi 'đóng cửa'. Cuộc khủng hoảng di cư mới sẽ châm ngòi cho các cuộc bạo loạn chính trị, làm suy yếu EU, lợi cho các cường quốc bên ngoài như Nga và Trung Quốc.",
+      "duration_hint": 52,
+      "start_frame": 9930,
+      "duration_frames": 1089
+    },
+    {
+      "type": "insight",
+      "headline": "Thế giới chia rẽ: Ai đứng về phía nào?",
+      "points": [
+        "Nga hưởng lợi khi Mỹ bị cuốn vào Trung Đông, bớt sức cho Ukraine.",
+        "Trung Quốc kêu gọi hòa bình nhưng không chỉ trích Israel.",
+        "Sự chia rẽ tại Hội đồng Bảo an Liên Hợp Quốc khiến mọi nghị quyết bế tắc."
+      ],
+      "image_keywords": [
+        "un security council flags divided"
+      ],
+      "source_note": "Tờ The Economist",
+      "voice_segment": "Kịch bản chiến tranh Lebanon làm lộ rõ bản chất của trật tự thế giới hiện tại: không còn luật lệ, chỉ còn lợi ích. Nhìn vào thái độ của các nước lớn sẽ thấy sự giả tạo. Nga lên án Israel bằng miệng, nhưng thực chất trong lòng lại thầm vui mừng. Mỹ càng sa lầy ở Trung Đông, càng ít vũ khí và tiền bạc gửi cho Ukraine. Trung Quốc thì khéo léo hơn: họ kêu gọi 'các bên kiềm chế', nhưng tuyệt đối không gọi tên Israel hay lên án cuộc không kích. Bởi Bắc Kinh cần Tel Aviv trong cuộc đua công nghệ cao. Kết quả là Hội đồng Bảo an bất lực. Các nước Arab – vốn bất hòa nội bộ – cũng không thể đưa ra hành động cứng rắn. Sự trống vắng quyền lực này là mảnh đất màu mỡ để Netanyahu tiếp tục cuộc chơi.",
+      "duration_hint": 50,
+      "start_frame": 11019,
+      "duration_frames": 1053
+    },
+    {
+      "type": "insight",
+      "headline": "Việt Nam giữa tâm bão: Cần làm gì?",
+      "points": [
+        "Bộ Ngoại giao đã ra khuyến cáo, nhưng chưa có kế hoạch sơ tán.",
+        "Doanh nghiệp xuất khẩu sang Israel, Lebanon cần tìm thị trường thay thế.",
+        "Bài học từ chiến tranh Ukraine: lường trước gián đoạn thanh toán quốc tế."
+      ],
+      "image_keywords": [
+        "vietnam flag global shipping port"
+      ],
+      "source_note": "Bộ Công Thương Việt Nam",
+      "voice_segment": "Người Việt Nam xa xôi, nhưng không thể đứng ngoài cuộc. Bộ Ngoại giao đã nâng cảnh báo du lịch lên mức cao nhất cho Lebanon, nhưng chưa thấy công bố kế hoạch sơ tán công dân. Điều này dễ hiểu vì lượng người Việt tại Lebanon rất ít. Tuy nhiên, mối nguy lớn nhất lại nằm ở thanh toán quốc tế. Trong chiến tranh Ukraine, nhiều doanh nghiệp Việt bị mất tiền vì ngân hàng Nga bị loại khỏi hệ thống SWIFT. Nếu Iran bị cấm vận thứ cấp, các ngân hàng Việt Nam sẽ thận trọng, gây khó khăn cho thương mại với cả khu vực Vịnh. Về hàng hóa, Việt Nam xuất khẩu gần 200 triệu đô la mỗi năm sang Israel (chủ yếu thủy sản, dệt may). Nếu cảng Ashdod hoặc Haifa đóng cửa vì rocket Hezbollah, doanh nghiệp phải tìm ngay đối tác thay thế. Giải pháp lúc này là đa dạng hóa, không dồn trứng vào một giỏ.",
+      "duration_hint": 55,
+      "start_frame": 12072,
+      "duration_frames": 1186
+    },
+    {
+      "type": "outro",
+      "cta": "Liệu cộng đồng quốc tế có để Lebanon trở thành Gaza thứ hai?",
+      "channel": "Huybrid",
+      "tagline": "Phân tích • Thời sự • Hiểu đúng",
+      "voice_segment": "Tóm lại, Israel đang cố tình leo thang để đập tan Hezbollah, nhưng hậu quả có thể nhấn chìm cả Trung Đông vào hỗn loạn. Người dân Lebanon, vốn đã kiệt quệ, sẽ trả giá đắt nhất. Câu hỏi đặt ra: trước những chia rẽ của thế giới, liệu có bất kỳ thế lực nào đủ mạnh để ngăn chặn Netanyahu? Hay một cuộc chiến tổng lực mới là điều không thể tránh khỏi? Hãy suy nghĩ về điều đó khi theo dõi những thước phim bom rơi từ Beirut.",
+      "duration_hint": 25,
+      "start_frame": 13258,
+      "duration_frames": 638
+    }
+  ],
+  "brand": {},
+  "industry": "",
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "duration_frames": 13903
+  }
+}
