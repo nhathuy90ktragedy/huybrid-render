@@ -1,0 +1,94 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-fbd5518cd9",
+  "video_title": "Nga-Ukraine: Lệnh ngừng bắn SỤP ĐỔ, 13 người chết",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-fbd5518cd9.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "LỆNH NGỪNG BẮN VỠ VỤN",
+      "subtitle": "Nga nối lại tấn công drone, 13 người thiệt mạng ở Ukraine",
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "Conflict"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "ukraine war",
+        "explosion",
+        "night sky",
+        "drone"
+      ],
+      "voice_segment": "Lệnh ngừng bắn vừa hết hiệu lực, Nga đã ngay lập tức tung đòn. Bầu trời Ukraine một lần nữa rực sáng bởi các vụ nổ từ máy bay không người lái, và cái giá phải trả là mạng người.",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 245,
+      "image_url": "https://images.unsplash.com/photo-1628894875395-5aee438ed278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx1a3JhaW5lJTIwd2FyJTIwZXhwbG9zaW9uJTIwbmlnaHQlMjBza3klMjBkcm9uZXxlbnwwfDB8fHwxNzc5MjkxMjkyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "CHIẾN THUẬT TÀN KHỐC",
+      "points": [
+        "Ít nhất 13 người thiệt mạng",
+        "Tấn công ngay khi ngừng bắn hết hạn",
+        "Tổng thống Ukraine đã cảnh báo trước"
+      ],
+      "image_keywords": [
+        "firefighters",
+        "ukraine building damage",
+        "emergency services"
+      ],
+      "source_note": "Nguồn: BBC World",
+      "voice_segment": "Đây không phải là một cuộc tấn công ngẫu nhiên. BBC đưa tin, các cuộc không kích diễn ra gần như ngay lập tức sau khi thỏa thuận ngừng bắn tạm thời kết thúc. Con số 13 người chết cho thấy mức độ sát thương và sự chuẩn bị kỹ lưỡng của phía Nga cho đợt tấn công này.",
+      "duration_hint": 12,
+      "start_frame": 245,
+      "duration_frames": 365,
+      "image_url": "https://images.unsplash.com/photo-1704971152660-b56fcd93c04d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxmaXJlZmlnaHRlcnMlMjB1a3JhaW5lJTIwYnVpbGRpbmclMjBkYW1hZ2UlMjBlbWVyZ2VuY3klMjBzZXJ2aWNlc3xlbnwwfDB8fHwxNzc5MjkxMjkyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "LEO THANG BẰNG DRONE?",
+      "points": [
+        "Cảnh báo về 'nhiều làn sóng tấn công'",
+        "Chiến tranh tiêu hao cường độ cao"
+      ],
+      "image_keywords": [
+        "military drone",
+        "radar screen",
+        "world map ukraine"
+      ],
+      "source_note": "Nguồn: Al Jazeera",
+      "voice_segment": "Tổng thống Ukraine đã cảnh báo về 'nhiều làn sóng tấn công mới'. Điều này cho thấy Kiev đã lường trước được kịch bản này, nhưng vẫn không thể ngăn chặn hoàn toàn thiệt hại. Phải chăng chiến lược của Nga là dùng drone để bào mòn ý chí và nguồn lực của Ukraine?",
+      "duration_hint": 10,
+      "start_frame": 610,
+      "duration_frames": 359,
+      "image_url": "https://images.unsplash.com/photo-1673025822001-ec127ba48206?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxtaWxpdGFyeSUyMGRyb25lJTIwcmFkYXIlMjBzY3JlZW4lMjB3b3JsZCUyMG1hcCUyMHVrcmFpbmV8ZW58MHwwfHx8MTc3OTI5MTI5M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Thế giới đang đứng trước điều gì?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Khi các nỗ lực ngoại giao thất bại, liệu súng đạn có phải là câu trả lời duy nhất còn lại trên bàn đàm phán?",
+      "duration_hint": 4,
+      "start_frame": 969,
+      "duration_frames": 149,
+      "image_url": "https://images.unsplash.com/photo-1529209076408-5a115ec9f1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkyNDgwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1120
+  }
+}
