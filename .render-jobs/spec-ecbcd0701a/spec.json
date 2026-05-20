@@ -1,0 +1,96 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-ecbcd0701a",
+  "video_title": "Nga Tấn Công Kyiv: Dân Thường Bị Chôn Vùi?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-ecbcd0701a.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "KYIV CHÌM TRONG LỬA",
+      "subtitle": "Tòa nhà sụp đổ sau đòn không kích của Nga, dân thường mắc kẹt",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Conflict"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "Kyiv attack",
+        "building collapse",
+        "smoke",
+        "destruction"
+      ],
+      "voice_segment": "Một tòa nhà ở Kyiv đã sụp đổ sau cuộc tấn công bằng tên lửa và drone của Nga. Có thông tin nhiều người dân vẫn đang bị mắc kẹt bên trong đống đổ nát, biến nơi ở của họ thành một nấm mồ.",
+      "duration_hint": 7,
+      "start_frame": 0,
+      "duration_frames": 250,
+      "image_url": "https://images.unsplash.com/photo-1715017112562-ec58626deea1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxLeWl2JTIwYXR0YWNrJTIwYnVpbGRpbmclMjBjb2xsYXBzZSUyMHNtb2tlJTIwZGVzdHJ1Y3Rpb258ZW58MHwwfHx8MTc3OTI4NjMxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "CHIẾN LƯỢC TẤN CÔNG KÉP",
+      "points": [
+        "Sử dụng đồng thời drone và tên lửa",
+        "Nhắm vào thủ đô Kyiv, trung tâm đầu não",
+        "Nhiều tòa nhà dân sự bị hư hại nặng"
+      ],
+      "image_keywords": [
+        "missile strike",
+        "Ukrainian air defense",
+        "Kyiv night",
+        "explosion"
+      ],
+      "source_note": "Nguồn: Al Jazeera",
+      "voice_segment": "Đây không phải là một cuộc tấn công ngẫu nhiên. Việc Nga kết hợp cả drone và tên lửa cho thấy một chiến thuật được tính toán kỹ lưỡng nhằm áp đảo hệ thống phòng không của Ukraine. Tại sao lại nhắm vào các tòa nhà dân sự ở thủ đô?",
+      "duration_hint": 12,
+      "start_frame": 250,
+      "duration_frames": 309,
+      "image_url": "https://images.unsplash.com/photo-1670711453393-44fa0280422c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxtaXNzaWxlJTIwc3RyaWtlJTIwVWtyYWluaWFuJTIwYWlyJTIwZGVmZW5zZSUyMEt5aXYlMjBuaWdodCUyMGV4cGxvc2lvbnxlbnwwfDB8fHwxNzc5Mjg2MzE4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "THƯỜNG DÂN LÀ MỤC TIÊU?",
+      "points": [
+        "Báo cáo cho thấy dân thường bị mắc kẹt",
+        "Đòn tấn công diễn ra vào ban đêm"
+      ],
+      "image_keywords": [
+        "rescue workers",
+        "rubble",
+        "Ukraine emergency",
+        "firefighters"
+      ],
+      "source_note": "Nguồn: BBC, Al Jazeera",
+      "voice_segment": "Các cuộc tấn công vào ban đêm khi người dân đang ngủ dường như có chủ đích gây ra thương vong tối đa. Hành động này đặt ra câu hỏi cấp bách: phải chăng dân thường đang trở thành mục tiêu chính trong chiến lược của Nga?",
+      "duration_hint": 10,
+      "start_frame": 559,
+      "duration_frames": 294,
+      "image_url": "https://images.unsplash.com/photo-1704971152660-b56fcd93c04d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxyZXNjdWUlMjB3b3JrZXJzJTIwcnViYmxlJTIwVWtyYWluZSUyMGVtZXJnZW5jeSUyMGZpcmVmaWdodGVyc3xlbnwwfDB8fHwxNzc5Mjg2MzE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Bạn nghĩ sao về cuộc tấn công này?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Liệu cộng đồng quốc tế sẽ phản ứng ra sao trước hành động này? Cuộc chiến sẽ đi về đâu?",
+      "duration_hint": 5,
+      "start_frame": 853,
+      "duration_frames": 117,
+      "image_url": "https://images.unsplash.com/photo-1529209076408-5a115ec9f1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkyNDgwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 972
+  }
+}
