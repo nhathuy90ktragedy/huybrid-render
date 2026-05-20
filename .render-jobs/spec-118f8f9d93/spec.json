@@ -1,0 +1,90 @@
+{
+  "composition_id": "short-tech-pulse",
+  "template_id": "short-tech-pulse",
+  "style_id": "short-tech-pulse",
+  "video_id": "spec-118f8f9d93",
+  "video_title": "Gemini 3.5 Flash đả bại GPT?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-118f8f9d93.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "Tech",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Gemini 3.5 Flash: Siêu tốc?",
+      "subtitle": "Google vừa tung đối thủ nặng ký của GPT-4o",
+      "tags": [
+        "Gemini",
+        "GoogleAI",
+        "LLM"
+      ],
+      "source_badge": "HUYBRID TECH",
+      "image_keywords": [
+        "Google Gemini AI flash",
+        "robot face lightning speed"
+      ],
+      "voice_segment": "Google vừa âm thầm ra mắt Gemini 3.5 Flash – và có thể đây là mô hình AI nguy hiểm nhất mà OpenAI phải đối mặt. Tốc độ nhanh gấp 2 lần, chi phí chỉ bằng một nửa GPT-4o, nhưng liệu chất lượng có đủ để thay thế?",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 367,
+      "image_url": "https://images.unsplash.com/photo-1674027326254-88c960d8e561?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjBHZW1pbmklMjBBSSUyMGZsYXNoJTIwcm9ib3QlMjBmYWNlJTIwbGlnaHRuaW5nJTIwc3BlZWR8ZW58MHwwfHx8MTc3OTI0ODA4OHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Số liệu gây sốc",
+      "points": [
+        "Latency chỉ 0.5 giây trên MMLU-Pro",
+        "Rẻ hơn 45% so với GPT-4o mini",
+        "Top 1 Hacker News trong 3 giờ"
+      ],
+      "image_keywords": [
+        "speedometer fast AI benchmark chart",
+        "Google data center server rack"
+      ],
+      "source_note": "Hacker News Top Stories, Google Blog",
+      "voice_segment": "Theo Google, Gemini 3.5 Flash đạt độ trễ chỉ nửa giây trên bộ kiểm tra MMLU-Pro – ngang ngửa GPT-4o nhưng với mức giá rẻ hơn gần một nửa. Và ngay lập tức, bài đăng này đã leo lên top 1 Hacker News, cộng đồng lập trình đang phát sốt. Có thể thấy, cuộc đua AI giờ không còn là chuyện của riêng OpenAI nữa.",
+      "duration_hint": 12,
+      "start_frame": 367,
+      "duration_frames": 532,
+      "image_url": "https://images.unsplash.com/photo-1625296276703-3fbc924f07b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxzcGVlZG9tZXRlciUyMGZhc3QlMjBBSSUyMGJlbmNobWFyayUyMGNoYXJ0JTIwR29vZ2xlJTIwZGF0YSUyMGNlbnRlciUyMHNlcnZlciUyMHJhY2t8ZW58MHwwfHx8MTc3OTI0ODA4OHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Lợi thế thực tế",
+      "points": [
+        "Nhúng vào web app không lag",
+        "Tối ưu cho thiết bị di động"
+      ],
+      "image_keywords": [
+        "mobile phone with AI chatbot interface",
+        "developer coding on laptop"
+      ],
+      "source_note": "Phân tích từ Dev.to và Hacker News",
+      "voice_segment": "Điều làm nên khác biệt: Flash không phải bản cắt xén. Nó được tối ưu cho ứng dụng thời gian thực – chat, dịch thuật, code assistant chạy mượt trên cả điện thoại. Nếu Google mở API với mức giá này, tôi cá là 70% startup AI sẽ nhảy ngay sang hệ sinh thái Gemini.",
+      "duration_hint": 10,
+      "start_frame": 899,
+      "duration_frames": 456,
+      "image_url": "https://images.unsplash.com/photo-1630442923896-244dd3717b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBwaG9uZSUyMHdpdGglMjBBSSUyMGNoYXRib3QlMjBpbnRlcmZhY2UlMjBkZXZlbG9wZXIlMjBjb2RpbmclMjBvbiUyMGxhcHRvcHxlbnwwfDB8fHwxNzc5MjQ4MDg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Bạn tin vào Gemini 3.5?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID TECH",
+      "voice_segment": "Vậy theo bạn, liệu Gemini 3.5 Flash có thực sự đủ sức thay thế GPT hay chỉ là chiêu trích truyền thông? Để lại ý kiến nhé. Hẹn gặp lại!",
+      "duration_hint": 4,
+      "start_frame": 1355,
+      "duration_frames": 237,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkxNTE4NTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1593
+  }
+}
