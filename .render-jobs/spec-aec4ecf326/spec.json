@@ -1,0 +1,94 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-aec4ecf326",
+  "video_title": "Mỹ truy tố cựu Tổng thống Cuba 94 tuổi",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-aec4ecf326.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Cựu tổng thống Cuba bị truy tố",
+      "subtitle": "94 tuổi, tội giết người sau 30 năm",
+      "tags": [
+        "geopolitics",
+        "US",
+        "Cuba"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "Raul Castro",
+        "US indictment",
+        "Cuban president"
+      ],
+      "voice_segment": "Mỹ vừa giáng một đòn bất ngờ lên cựu lãnh đạo Cuba. Raul Castro, 94 tuổi, bị bồi thẩm đoàn liên bang truy tố tội giết người. Vụ việc xảy ra từ hơn 30 năm trước.",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 263,
+      "image_url": "https://images.unsplash.com/photo-1613842683240-19b2880f1e9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxSYXVsJTIwQ2FzdHJvJTIwVVMlMjBpbmRpY3RtZW50JTIwQ3ViYW4lMjBwcmVzaWRlbnR8ZW58MHwwfHx8MTc3OTMzOTEzMHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "4 tội danh giết người",
+      "points": [
+        "4 tội danh giết người liên quan vụ tấn công nhóm nhân đạo năm 1990",
+        "Nạn nhân là tổ chức Brothers to the Rescue - chuyên giải cứu người di cư",
+        "Máy bay dân sự bị bắn hạ, 4 người thiệt mạng"
+      ],
+      "image_keywords": [
+        "Cuban humanitarian attack",
+        "civil aircraft shot down",
+        "1990 tragedy"
+      ],
+      "source_note": "Nguồn: NPR, hồ sơ bồi thẩm đoàn Mỹ",
+      "voice_segment": "Cụ thể, ông Castro bị buộc 4 tội danh giết người liên quan vụ không quân Cuba bắn hạ hai máy bay dân sự năm 1990. Mục tiêu là nhóm Brothers to the Rescue chuyên giải cứu người di cư. 4 người thiệt mạng. Bằng chứng từ Mỹ cho thấy ông trực tiếp ra lệnh.",
+      "duration_hint": 12,
+      "start_frame": 263,
+      "duration_frames": 412,
+      "image_url": "https://images.unsplash.com/photo-1580639685952-01ea825b441f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxDdWJhbiUyMGh1bWFuaXRhcmlhbiUyMGF0dGFjayUyMGNpdmlsJTIwYWlyY3JhZnQlMjBzaG90JTIwZG93biUyMDE5OTAlMjB0cmFnZWR5fGVufDB8MHx8fDE3NzkzMzkxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Động thái trả đũa hay công lý?",
+      "points": [
+        "Raul Castro đã nghỉ hưu từ năm 2018, hiện ở tuổi 94",
+        "Bản cáo trạng đến ngay khi quan hệ Mỹ - Cuba xấu đi",
+        "Cộng đồng quốc tế chia rẽ về tính hợp pháp"
+      ],
+      "image_keywords": [
+        "US Cuba relations",
+        "political indictment",
+        "Cuban former leader"
+      ],
+      "source_note": "Nguồn: Al Jazeera, BBC World phân tích",
+      "voice_segment": "Câu hỏi đặt ra: sao lại truy tố một người 94 tuổi sau 3 thập kỷ? Nhiều chuyên gia cho rằng đây là đòn chính trị khi Washington muốn gây sức ép lên Havana. Nhưng phía gia đình nạn nhân thì nói: công lý không có thời hiệu. Bạn nghĩ sao?",
+      "duration_hint": 10,
+      "start_frame": 675,
+      "duration_frames": 384,
+      "image_url": "https://images.unsplash.com/photo-1577468558789-3d9a1d7b35c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxVUyUyMEN1YmElMjByZWxhdGlvbnMlMjBwb2xpdGljYWwlMjBpbmRpY3RtZW50JTIwQ3ViYW4lMjBmb3JtZXIlMjBsZWFkZXJ8ZW58MHwwfHx8MTc3OTMzOTEzMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Theo dõi HUYBRID để cập nhật",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Liệu Raul Castro có bị dẫn độ? Hãy để lại bình luận. HUYBRID NEWS - tin thế giới không qua lăng kính.",
+      "duration_hint": 4,
+      "start_frame": 1059,
+      "duration_frames": 166,
+      "image_url": "https://images.unsplash.com/photo-1529209076408-5a115ec9f1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkyNDgwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1227
+  }
+}
