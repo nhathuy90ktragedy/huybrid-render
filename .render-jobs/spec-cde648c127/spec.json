@@ -1,0 +1,87 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-cde648c127",
+  "video_title": "Su-27 Nga áp sát 6m: Khiêu khích chiến tranh?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-cde648c127.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Su-27 Nga áp sát 6 mét",
+      "subtitle": "Máy bay do thám Anh suýt đâm giữa Biển Đen",
+      "tags": [
+        "Russia",
+        "UK",
+        "Military Tensions"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "Russian fighter jet close encounter",
+        "military aircraft black sea"
+      ],
+      "voice_segment": "Máy bay chiến đấu Su-27 của Nga vừa lao tới cách chiếc máy bay do thám RAF của Anh chỉ 6 mét. Tốc độ cả hai lên tới 500 dặm/giờ. Đây không còn là lỗi kỹ thuật – đó là hành vi khiêu khích có chủ đích.",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 316
+    },
+    {
+      "type": "insight",
+      "headline": "Va chạm trong gang tấc",
+      "points": [
+        "Khoảng cách chỉ 6 mét – nguy cơ rơi máy bay cực cao",
+        "Su-27 vũ trang đầy đủ, máy bay Anh không vũ khí",
+        "Anh gọi là 'không thể chấp nhận'"
+      ],
+      "image_keywords": [
+        "Russian Su-27 jet fighter armed",
+        "RAF spy plane cockpit view"
+      ],
+      "source_note": "The Guardian, BBC World",
+      "voice_segment": "Các chuyên gia quân sự nói rằng ở tốc độ 500 dặm/giờ, chỉ một sai lệch nhỏ cũng khiến cả hai phi cơ tan xác. Điều đáng nói: Su-27 mang đầy tên lửa trong khi RAF không có vũ khí. Đây là lời đe dọa trực diện từ Moscow.",
+      "duration_hint": 12,
+      "start_frame": 316,
+      "duration_frames": 343
+    },
+    {
+      "type": "insight",
+      "headline": "Kịch bản leo thang?",
+      "points": [
+        "Biển Đen – điểm nóng va chạm NATO-Nga",
+        "Nga liên tục thử lằn ranh đỏ của phương Tây"
+      ],
+      "image_keywords": [
+        "Black Sea military standoff",
+        "Russian jet intercept NATO plane"
+      ],
+      "source_note": "Al Jazeera, Currents API",
+      "voice_segment": "Không phải lần đầu Nga chơi trò 'cảm tử' trên không. Nhưng khoảng cách 6 mét là mức nguy hiểm nhất trong nhiều năm. Liệu Anh và NATO có đáp trả quân sự hay chỉ lên án bằng lời?",
+      "duration_hint": 10,
+      "start_frame": 659,
+      "duration_frames": 279
+    },
+    {
+      "type": "outro",
+      "cta": "Theo dõi Huybrid để cập nhật",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Nếu là phi công RAF, bạn sẽ làm gì trong tình huống đó? Để lại bình luận nhé.",
+      "duration_hint": 4,
+      "start_frame": 938,
+      "duration_frames": 122,
+      "image_url": "https://images.unsplash.com/photo-1529209076408-5a115ec9f1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkyNDgwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1061
+  }
+}
