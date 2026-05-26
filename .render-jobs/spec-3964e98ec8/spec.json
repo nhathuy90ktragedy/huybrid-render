@@ -1,0 +1,91 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-3964e98ec8",
+  "video_title": "Trung Quốc - Pakistan: Liên minh 'bất khả phá vỡ'?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-3964e98ec8.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Trung Quốc - Pakistan: Liên minh thép?",
+      "subtitle": "Tập Cận Bình ca ngợi quan hệ 'bất khả phá vỡ'",
+      "tags": [
+        "Trung Quốc",
+        "Pakistan",
+        "Địa chính trị"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "China Pakistan flag handshake",
+        "Xi Jinping Shehbaz Sharif meeting",
+        "geopolitical alliance"
+      ],
+      "voice_segment": "Chủ tịch Trung Quốc Tập Cận Bình vừa ca ngợi mối quan hệ với Pakistan là 'bất khả phá vỡ', trong bối cảnh Thủ tướng Pakistan Shehbaz Sharif thăm Bắc Kinh. Đây không chỉ là một tuyên bố ngoại giao thông thường, mà còn là lời khẳng định về một liên minh chiến lược đang ngày càng sâu sắc.",
+      "duration_hint": 8,
+      "start_frame": 0,
+      "duration_frames": 406
+    },
+    {
+      "type": "insight",
+      "headline": "Vì sao 'anh em sắt đá'?",
+      "points": [
+        "Thủ tướng Sharif gọi Trung Quốc là 'anh em sắt đá'",
+        "Hợp tác kinh tế, quân sự và chiến lược sâu rộng",
+        "Đối trọng với ảnh hưởng của Ấn Độ và phương Tây"
+      ],
+      "image_keywords": [
+        "China Pakistan economic corridor",
+        "military cooperation",
+        "strategic partnership"
+      ],
+      "source_note": "Al Jazeera",
+      "voice_segment": "Thủ tướng Shehbaz Sharif đã gọi Trung Quốc là 'anh em sắt đá', một cụm từ nhấn mạnh sự gắn kết đặc biệt. Mối quan hệ này không chỉ dừng lại ở hợp tác kinh tế qua Hành lang Kinh tế Trung Quốc-Pakistan (CPEC) mà còn mở rộng sang lĩnh vực quân sự và chiến lược, tạo thành một đối trọng quan trọng trong khu vực.",
+      "duration_hint": 12,
+      "start_frame": 406,
+      "duration_frames": 437
+    },
+    {
+      "type": "insight",
+      "headline": "Tác động địa chính trị toàn cầu",
+      "points": [
+        "Củng cố vị thế Trung Quốc tại Nam Á",
+        "Thách thức cán cân quyền lực khu vực"
+      ],
+      "image_keywords": [
+        "geopolitical map Asia",
+        "global power dynamics",
+        "international relations"
+      ],
+      "source_note": "Phân tích Huybrid News",
+      "voice_segment": "Liên minh này củng cố đáng kể vị thế của Trung Quốc tại Nam Á, đồng thời đặt ra những thách thức mới cho cán cân quyền lực khu vực. Liệu sự gắn kết này có đẩy căng thẳng lên cao, hay tạo ra một trật tự mới trong bối cảnh địa chính trị đầy biến động?",
+      "duration_hint": 10,
+      "start_frame": 843,
+      "duration_frames": 353,
+      "image_url": "https://images.unsplash.com/photo-1612383401582-e96cc0bc83d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxnZW9wb2xpdGljYWwlMjBtYXAlMjBBc2lhJTIwZ2xvYmFsJTIwcG93ZXIlMjBkeW5hbWljcyUyMGludGVybmF0aW9uYWwlMjByZWxhdGlvbnN8ZW58MHwwfHx8MTc3OTgwMDU4Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Tương lai nào cho liên minh này?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Mối quan hệ 'bất khả phá vỡ' giữa Trung Quốc và Pakistan sẽ định hình lại cục diện địa chính trị như thế nào? Hãy chia sẻ suy nghĩ của bạn về liên minh chiến lược này.",
+      "duration_hint": 5,
+      "start_frame": 1196,
+      "duration_frames": 237,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3Nzk3MjMwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1434
+  }
+}
