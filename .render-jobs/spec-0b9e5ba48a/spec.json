@@ -1,0 +1,92 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-0b9e5ba48a",
+  "video_title": "Dầu Venezuela cứu Ấn Độ: Cú lật đổ địa chính trị?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-0b9e5ba48a.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Dầu Venezuela: Cứu tinh Ấn Độ?",
+      "subtitle": "Khủng hoảng Hormuz: Ai sẽ thắng?",
+      "tags": [
+        "Năng lượng",
+        "Địa chính trị",
+        "Ấn Độ"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "oil barrels",
+        "india map",
+        "venezuela flag"
+      ],
+      "voice_segment": "Ấn Độ đang đứng trước một quyết định lịch sử: mua dầu từ Venezuela. Liệu đây có phải là lối thoát cho cuộc khủng hoảng năng lượng Hormuz, hay là một nước cờ địa chính trị đầy rủi ro?",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 263
+    },
+    {
+      "type": "insight",
+      "headline": "Ấn Độ xoay trục sang Venezuela",
+      "points": [
+        "Tổng thống lâm thời Venezuela Delcy Rodriguez sẽ thăm Ấn Độ tuần tới.",
+        "Mục tiêu chính: Thảo luận về hợp đồng bán dầu quy mô lớn.",
+        "Động thái này diễn ra trong bối cảnh căng thẳng tại eo biển Hormuz gia tăng."
+      ],
+      "image_keywords": [
+        "oil tanker",
+        "diplomatic meeting",
+        "india venezuela handshake"
+      ],
+      "source_note": "Al Jazeera, 22/05/2026",
+      "voice_segment": "Trong bối cảnh căng thẳng leo thang ở eo biển Hormuz, Ấn Độ đang tìm kiếm các nguồn cung dầu thay thế. Chuyến thăm sắp tới của Tổng thống lâm thời Venezuela Delcy Rodriguez tới Ấn Độ không chỉ là một thỏa thuận kinh tế, mà còn là một tuyên bố chính trị mạnh mẽ, thách thức trật tự năng lượng hiện có.",
+      "duration_hint": 12,
+      "start_frame": 263,
+      "duration_frames": 434
+    },
+    {
+      "type": "insight",
+      "headline": "Định hình lại bản đồ năng lượng",
+      "points": [
+        "Venezuela sở hữu trữ lượng dầu lớn nhất thế giới.",
+        "Ấn Độ là một trong những nước tiêu thụ năng lượng hàng đầu.",
+        "Thỏa thuận này có thể làm suy yếu các lệnh trừng phạt phương Tây và thay đổi cán cân quyền lực."
+      ],
+      "image_keywords": [
+        "world oil map",
+        "oil refinery",
+        "global energy crisis"
+      ],
+      "source_note": "Al Jazeera, BBC World",
+      "voice_segment": "Nếu thỏa thuận này thành công, nó không chỉ giải quyết nhu cầu năng lượng của Ấn Độ mà còn tạo ra một liên minh kinh tế mới, làm suy yếu ảnh hưởng của các cường quốc phương Tây. Đây là một bước đi táo bạo, có thể định hình lại bản đồ địa chính trị năng lượng toàn cầu.",
+      "duration_hint": 10,
+      "start_frame": 697,
+      "duration_frames": 388,
+      "image_url": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx3b3JsZCUyMG9pbCUyMG1hcCUyMG9pbCUyMHJlZmluZXJ5JTIwZ2xvYmFsJTIwZW5lcmd5JTIwY3Jpc2lzfGVufDB8MHx8fDE3Nzk3NTc0MjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Tương lai năng lượng thế giới?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Liệu dầu Venezuela có thực sự cứu được Ấn Độ, hay chỉ là khởi đầu cho một cuộc chiến địa chính trị mới? Tương lai năng lượng thế giới sẽ đi về đâu?",
+      "duration_hint": 4,
+      "start_frame": 1085,
+      "duration_frames": 212,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3Nzk3MjMwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1299
+  }
+}
