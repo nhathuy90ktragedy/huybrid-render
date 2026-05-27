@@ -1,0 +1,95 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-2b2e6ec2d2",
+  "video_title": "Pakistan: Tấn công tàu hỏa, 20 người thiệt mạng!",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-2b2e6ec2d2.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Pakistan: Tàu hỏa bị tấn công!",
+      "subtitle": "20 người thiệt mạng trong vụ thảm sát kinh hoàng.",
+      "tags": [
+        "Pakistan",
+        "Khủng bố",
+        "Xung đột"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "train attack",
+        "Pakistan conflict",
+        "military personnel",
+        "explosion aftermath"
+      ],
+      "voice_segment": "Một vụ nổ kinh hoàng đã xảy ra nhắm vào một đoàn tàu ở Pakistan, cướp đi sinh mạng của ít nhất 20 người. Đây không chỉ là một thảm kịch mà còn là dấu hiệu đáng báo động về tình hình an ninh tại khu vực này.",
+      "duration_hint": 7,
+      "start_frame": 0,
+      "duration_frames": 289,
+      "image_url": "https://images.unsplash.com/photo-1679616042323-85d5d720319b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0cmFpbiUyMGF0dGFjayUyMFBha2lzdGFuJTIwY29uZmxpY3QlMjBtaWxpdGFyeSUyMHBlcnNvbm5lbCUyMGV4cGxvc2lvbiUyMGFmdGVybWF0aHxlbnwwfDB8fHwxNzc5ODgzOTY4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Mục tiêu: Quân nhân về nhà ăn Eid",
+      "points": [
+        "Ít nhất 20 người chết, chủ yếu là quân nhân.",
+        "Tàu hỏa đang chở quân nhân về nhà ăn lễ Eid.",
+        "Các nhóm ly khai vũ trang bị cáo buộc đứng sau vụ tấn công."
+      ],
+      "image_keywords": [
+        "military train",
+        "Eid celebration",
+        "separatist attack",
+        "Pakistan army"
+      ],
+      "source_note": "BBC World",
+      "voice_segment": "Đoàn tàu định mệnh này đang đưa các quân nhân trở về nhà để đoàn tụ cùng gia đình trong dịp lễ Eid quan trọng. Vụ tấn công tàn bạo này cho thấy sự coi thường mạng sống con người và ý đồ gây bất ổn nghiêm trọng của các nhóm ly khai vũ trang.",
+      "duration_hint": 12,
+      "start_frame": 289,
+      "duration_frames": 337,
+      "image_url": "https://images.unsplash.com/photo-1661478686512-3292165e02cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxtaWxpdGFyeSUyMHRyYWluJTIwRWlkJTIwY2VsZWJyYXRpb24lMjBzZXBhcmF0aXN0JTIwYXR0YWNrJTIwUGFraXN0YW4lMjBhcm15fGVufDB8MHx8fDE3Nzk4ODM5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Xung đột leo thang: Ai hưởng lợi?",
+      "points": [
+        "Tình hình an ninh Pakistan ngày càng căng thẳng.",
+        "Các nhóm ly khai muốn gây áp lực lên chính phủ."
+      ],
+      "image_keywords": [
+        "Pakistan security",
+        "geopolitical tension",
+        "conflict zone",
+        "armed groups"
+      ],
+      "source_note": "Al Jazeera",
+      "voice_segment": "Vụ việc này không chỉ là một cuộc tấn công đơn lẻ mà còn là một phần trong chuỗi các hành động bạo lực nhằm leo thang xung đột. Câu hỏi đặt ra là, ai sẽ hưởng lợi từ sự bất ổn này và liệu chính phủ Pakistan có thể kiểm soát được tình hình?",
+      "duration_hint": 10,
+      "start_frame": 626,
+      "duration_frames": 335
+    },
+    {
+      "type": "outro",
+      "cta": "Tình hình Pakistan sẽ đi về đâu?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Tình hình an ninh tại Pakistan đang đứng trước những thách thức lớn. Liệu hòa bình có thể được vãn hồi hay đây chỉ là khởi đầu cho một chuỗi bạo lực mới?",
+      "duration_hint": 4,
+      "start_frame": 961,
+      "duration_frames": 214,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3Nzk4ODMwNzl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1177
+  }
+}
